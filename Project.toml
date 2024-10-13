@@ -1,0 +1,7 @@
+name = "Citations"
+uuid = "545d2ea6-01f8-477c-86ab-244d453bb437"
+authors = ["Alcyon Lab"]
+version = "0.1.0"
+
+[compat]
+julia = "1.2"
